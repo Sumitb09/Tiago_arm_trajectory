@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tiago_trajectory</name>
+  <version>0.0.1</version>
+  <description>TIAGo trajectory publisher</description>
+  <maintainer email="your@email.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclcpp</depend>
+  <depend>trajectory_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
