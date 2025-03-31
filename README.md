@@ -37,7 +37,7 @@ ros2 run Tiago_arm_trajectory tiago_trajectory_publisher
 
 ## Output  
  
-[click here to see the output](output/Screencast from 03-24-2025 02_54_16 PM (online-video-cutter.com).mp4)
+[click here to see the output](./output/Screencast from 03-24-2025 02_54_16 PM (online-video-cutter.com).mp4)
 
 
 ## Node Details  
@@ -56,8 +56,4 @@ ros2 run Tiago_arm_trajectory tiago_trajectory_publisher
 - `rclcpp` (ROS 2 C++ client library)  
 - `trajectory_msgs` (for joint trajectory messages)  
 - `tiago_simulation` (for running the TIAGo robot in Gazebo)  
-
-## License  
-
-This project is licensed under the MIT License.
 
