@@ -36,12 +36,9 @@ ros2 run Tiago_arm_trajectory tiago_trajectory_publisher
 ```
 
 ## Output  
-```
-<video controls src="Screencast from 03-24-2025 02_54_16 PM (online-video-cutter.com).mp4" title="Title"></video>
-```
+ 
+[click here to see the output](output/Screencast from 03-24-2025 02_54_16 PM (online-video-cutter.com).mp4)
 
-
-(Add your output logs or observations here.)  
 
 ## Node Details  
 
